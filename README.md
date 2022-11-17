@@ -20,6 +20,6 @@ To start the quiz press the start button. Each player starts with a score of 75.
 
 N/A
 
-## License
+## Licensegit
 
 Please refer to the LICENSE in the repo.
