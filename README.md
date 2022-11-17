@@ -8,7 +8,7 @@ This is a quiz game about JavaScript. The highest score is logged and shown! You
 
 ## Installation
 
-Link to Deployment: https://jaugsbu2.github.io/my-portfolio-website/
+Link to Deployment: https://jaugsbu2.github.io/javascript-quiz-website/
 
 ## Usage
 
