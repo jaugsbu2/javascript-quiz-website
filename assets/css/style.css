@@ -33,7 +33,7 @@ color: white;
 border-radius: 15px;
 }
 
-.button-start:hover, .button {
+.button-start:hover, .button:hover {
   background-color: lightgreen;
   color: black;
 }
